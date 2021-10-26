@@ -32,7 +32,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com/AlexaVR-RR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'Https://rec.ent/user/alexa'> <img width = '32px' align= 'center' src="https://github.com/Alexa-RR/Alexa-RR/raw/main/Vupw6Xrm_400x400.jpg"/></a> 
+<a href = 'Https://rec.net/user/alexa'> <img width = '32px' align= 'center' src="https://github.com/Alexa-RR/Alexa-RR/raw/main/Vupw6Xrm_400x400.jpg"/></a> 
 <a href = 'https://www.github.com/Alexa-RR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
