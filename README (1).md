@@ -1,27 +1,21 @@
 
-<div align="center">
-<img width="100%" height = "100%" src="Https" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alexa-RR.Alexa-RR)
 
 </p>
-<div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Alexa. Welcome to my GitHub profile :D
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working on Making puzzle maps in [Rec Room](https://recroom.com) using circuits v2
 
-- 🌱 I’m currently learning Python 
-
-- 👯 I’m looking to collaborate on  
+- 🌱 I’m currently learning Python  
 
 - 💬 Talk to me about Linux and the open source community 
 
@@ -38,7 +32,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com/AlexaVR-RR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'Https://rec.ent/user/alexa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'Https://rec.ent/user/alexa'> <img width = '32px' align= 'center' src="https://github.com/Alexa-RR/Alexa-RR/raw/main/Vupw6Xrm_400x400.jpg"/></a> 
 <a href = 'https://www.github.com/Alexa-RR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -61,4 +55,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
