@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Making puzzle maps in [Rec Room](https://recroom.com) using circuits v2
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning javascript  
 
 - 💬 Talk to me about Linux and the open source community 
 
