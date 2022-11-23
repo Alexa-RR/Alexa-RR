@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alexa-RR.Alexa-RR)
 
 </p>
-<div size='20px'> Hi! My name is Alexa. Welcome to my GitHub profile :D
+<div size='20px'> Hi! Welcome to my GitHub profile :D
 </div>
 
 <h2> About Me </h2>
